@@ -1,0 +1,23 @@
+/* src/components/HotelList.css */
+.hotel-list {
+    padding: 20px;
+  }
+  
+  .hotel-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .hotel-list li {
+    margin: 10px 0;
+  }
+  
+  .hotel-list a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .hotel-list a:hover {
+    text-decoration: underline;
+  }
+  

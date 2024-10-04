@@ -1,0 +1,18 @@
+/* src/components/UserProfile.css */
+.user-profile {
+    padding: 20px;
+  }
+  
+  .user-profile h2 {
+    margin-bottom: 20px;
+  }
+  
+  .user-profile ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-profile li {
+    margin: 10px 0;
+  }
+  
